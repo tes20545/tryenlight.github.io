@@ -1,7 +1,8 @@
 repo_name: tes20545/tryenlight.github.io
 report_id: 7f6c715aee871517b21f5adf5de7a897
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T02:39:58+00:00'
+timestamp: '2024-01-05T08:43:17+00:00'
 requested_by: shamdasani
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -47,8 +51,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: _site/demo/node-js/chat/package.json
-  detection_source: demo/node-js/chat/package.json
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io/blob/master/_site/demo/node-js/chat/package.json
+  detection_source: _site/demo/node-js/chat/package.json
   last_updated_by: shamdasani
   last_updated_on: 2017-12-09 17:24:47.000000000 Z
 - name: Socket.IO
@@ -60,8 +64,8 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
-  detection_source_url: _site/demo/node-js/chat/package.json
-  detection_source: demo/node-js/chat/package.json
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io/blob/master/_site/demo/node-js/chat/package.json
+  detection_source: _site/demo/node-js/chat/package.json
   last_updated_by: shamdasani
   last_updated_on: 2017-12-09 17:24:47.000000000 Z
 - name: Git
@@ -72,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -81,7 +86,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: demo/node-js/twitter-bot/package.json
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io/blob/master/_site/demo/node-js/twitter-bot/package.json
+  detection_source: _site/demo/node-js/twitter-bot/package.json
   last_updated_by: shamdasani
   last_updated_on: 2017-12-09 17:24:47.000000000 Z
 - name: Twitter API
@@ -90,7 +96,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2466/twitterdev_gear.png
-  detection_source: demo/node-js/twitter-bot/package.json
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io/blob/master/_site/demo/node-js/twitter-bot/package.json
+  detection_source: _site/demo/node-js/twitter-bot/package.json
   last_updated_by: shamdasani
   last_updated_on: 2017-12-09 17:24:47.000000000 Z
 - name: solidity
@@ -99,6 +106,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io
   detection_source: Repo Metadata
 - name: express
   description: Fast, unopinionated, minimalist web framework
@@ -110,8 +118,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: _site/demo/node-js/chat/package.json
-  detection_source: demo/node-js/chat/package.json
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io/blob/master/_site/demo/node-js/chat/package.json
+  detection_source: _site/demo/node-js/chat/package.json
   last_updated_by: shamdasani
   last_updated_on: 2017-12-09 17:24:47.000000000 Z
   vulnerabilities:
@@ -131,8 +139,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: _site/demo/node-js/twitter-bot/package.json
-  detection_source: demo/node-js/twitter-bot/package.json
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io/blob/master/_site/demo/node-js/twitter-bot/package.json
+  detection_source: _site/demo/node-js/twitter-bot/package.json
   last_updated_by: shamdasani
   last_updated_on: 2017-12-09 17:24:47.000000000 Z
   vulnerabilities:
@@ -152,7 +160,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18372/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
-  detection_source_url: _site/demo/node-js/twitter-bot/package.json
-  detection_source: demo/node-js/twitter-bot/package.json
+  detection_source_url: https://github.com/tes20545/tryenlight.github.io/blob/master/_site/demo/node-js/twitter-bot/package.json
+  detection_source: _site/demo/node-js/twitter-bot/package.json
   last_updated_by: shamdasani
   last_updated_on: 2017-12-09 17:24:47.000000000 Z
